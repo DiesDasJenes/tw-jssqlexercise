@@ -8,7 +8,7 @@ let ad = [
     ["mazarat", "chahenge"], // reverse this line
     ["attention", "please"]
 ];
-
+//sorry was lazy
 function transformAd(ad){
 	let adverttext = ""
   adverttext += ad[0];
